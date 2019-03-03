@@ -1,4 +1,4 @@
-# electron-auto-update
+# neo4j client app
 
 ## Express.js and Neo4j app
 
